@@ -1,3 +1,0 @@
-# Demo File
-
-text
