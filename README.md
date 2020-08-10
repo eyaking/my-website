@@ -1,7 +1,4 @@
 # My-Website
 
 This is a really awesome website
-
-new edit on update branch
-
-updated locally
+Updates made on master on GitHub before rebase
